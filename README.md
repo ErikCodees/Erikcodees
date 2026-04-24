@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Erik Henrique, sou natural de Pernambuco e atualmente, estou curso Análise e Desenvolvimento de Sistemas na Estácio.
+Me chamo Erik Henrique, sou natural de Pernambuco e atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio.
 Backend Developer focado em "Python e Django, SQL.
 Sempre aprendendo e evoluindo, focado em criar soluções práticas com código.
 
