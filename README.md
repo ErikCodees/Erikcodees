@@ -1,16 +1,52 @@
-## Hi there 👋
+# 💻 Erik Henrique 
 
-<!--
-**ErikCodees/Erikcodees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Back-end`**
 
-Here are some ideas to get you started:
+Me chamo Erik Henrique, sou natural de Pernambuco e atualmente, estou curso Análise e Desenvolvimento de Sistemas na Estácio.
+Backend Developer focado em "Python e Django, SQL.
+Sempre aprendendo e evoluindo, focado em criar soluções práticas com código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**⚙️Linguagens e Tecnologias**
+
+<p align="left">
+  <img 
+    alt="Python" 
+    title="Python 🐍"
+    width="65px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
+  />
+  <img 
+    alt="Django" 
+    title="Django ⚙️"
+    width="65px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" 
+  />
+  <img 
+    alt="PostgreSQL" 
+    title="SQL 🗄️"
+    width="65px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
+  />
+  <img 
+    alt="Git" 
+    title="Git 🔧"
+    width="65px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" 
+  />
+  <img 
+    alt="GitHub" 
+    title="GitHub 🚀"
+    width="65px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
+  />
+</p>
+
+
+---
+
+
+
+
+
+
