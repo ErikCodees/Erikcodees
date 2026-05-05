@@ -7,7 +7,7 @@ Backend Developer focado em "Python, Django, SQL e Dados com  Analise de Dados c
 Foco em performance, lógica e boas práticas.
 
 💡 Atualmente estudando:
-Lógica de Programação • Programação Orientada a Objetos (POO) • Estruturas de Dados • Python para Análise de Dados
+**Lógica de Programação • Programação Orientada a Objetos (POO) • Estruturas de Dados • Python para Análise de Dados**
 
 📊 Foco principal:
 Análise de Dados com Pandas e Jupyter
