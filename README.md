@@ -40,6 +40,18 @@ Foco em performance, lógica e boas práticas.
     width="65px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
   />
+  <img 
+  alt="Jupyter" 
+  title="Jupyter Notebook 📓"
+  width="65px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" 
+/>
+  <img 
+  alt="Pandas" 
+  title="Pandas 📊"
+  width="65px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" 
+/>
 </p>
 
 
