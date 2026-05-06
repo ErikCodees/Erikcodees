@@ -10,7 +10,7 @@ Foco em performance, lógica e boas práticas.
 **`Lógica de Programação • Programação Orientada a Objetos (POO) • Estruturas de Dados • Python para Data Analyst `**
 
 📊 Foco principal:
-**`Análise de Dados com Pandas e Jupyter`**
+**` Desenvolvimento de Sistemas com Python e Análise de Dados com Pandas`**
 
 🎯 Objetivo profissional:
 **`Back-end Developer | Data Analyst`**
