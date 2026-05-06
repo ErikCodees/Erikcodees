@@ -31,7 +31,6 @@ Foco em performance, lógica e boas práticas.
     width="65px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" 
   />
-  <p>
   <img 
     alt="Flask" 
     title="Flask 🧪"
