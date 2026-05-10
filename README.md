@@ -11,13 +11,13 @@ Tenho interesse em ETL, automação, bancos de dados, Big Data, processamento di
 ---
 
 ## 📚 Atualmente estudando
-Python • SQL • PostgreSQL • ETL • PySpark • Estruturas de Dados • Docker • Automação
+**´Python • SQL • PostgreSQL • ETL • PySpark • Estruturas de Dados • Docker • Automação´**
 
 ## 🎯 Foco principal
-Engenharia de Dados • Pipelines ETL • Bancos de Dados • Big Data • Processamento Distribuído
+**´Engenharia de Dados • Pipelines ETL • Bancos de Dados • Big Data • Processamento Distribuído´**
 
 ## 🚀 Objetivo profissional
-**Data Engineer**
+**´Data Engineer´**
 
 ---
 
