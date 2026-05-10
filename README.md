@@ -17,7 +17,7 @@ Python • SQL • PostgreSQL • ETL • PySpark • Estruturas de Dados • Do
 Engenharia de Dados • Pipelines ETL • Bancos de Dados • Big Data • Processamento Distribuído
 
 ## 🚀 Objetivo profissional
-Data Engineer
+**Data Engineer**
 
 ---
 
