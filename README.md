@@ -1,6 +1,6 @@
 # 💻 Erik Henrique Dos Santos Américo.
 
-**`ENgenheiro de Dados`**
+**`Engenharia  de Dados🏗️`**
 
 Me chamo Erik Henrique, sou natural de Pernambuco e atualmente curso Análise e Desenvolvimento de Sistemas na Estácio.
 
