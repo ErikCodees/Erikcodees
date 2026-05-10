@@ -77,13 +77,6 @@ Tenho interesse em ETL, automação, bancos de dados, Big Data, processamento di
     width="65px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" 
   />
-
-  <img 
-    alt="Linux" 
-    title="Linux 🐧"
-    width="65px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
-  />
 </p>
 
 ---
