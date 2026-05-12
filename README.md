@@ -17,7 +17,7 @@ Tenho interesse em ETL, automação, bancos de dados, Big Data, processamento di
 **Engenharia de Dados • Pipelines ETL • Bancos de Dados • Big Data • Processamento Distribuído´**
 
 ## 🚀 Objetivo profissional
-**´Data Engineer´**
+**Data Engineer**
 
 ---
 
