@@ -23,10 +23,6 @@ Tenho interesse em ETL, automação, bancos de dados, Big Data, processamento di
 
 # ⚙️ **´Tecnologias e Ferramentas´**
 
-Cole esse então:
+[![My Skills](https://skillicons.dev/icons?i=python,postgresql,docker,git,github)](https://skillicons.dev)
 
-```markdown
-[![My Skills](https://skillicons.dev/icons?i=python,postgres,docker,git,github,jupyter)](https://skillicons.dev)
-```
 
-Só isso! 🚀
